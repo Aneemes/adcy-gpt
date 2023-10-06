@@ -2,6 +2,7 @@
   "name": "adcy",
   "version": "0.1.0",
   "private": true,
+  "proxy": "https://fynoih10s8.execute-api.us-east-1.amazonaws.com/Prod/reports",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
