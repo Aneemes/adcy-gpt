@@ -1,0 +1,6 @@
+[build]
+  functions = "functions"
+
+[[functions]]
+  name = "proxy"
+  command = "proxy.js"
